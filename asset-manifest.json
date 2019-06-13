@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/phoneticae/static/css/main.fc22b7e6.chunk.css",
-    "main.js": "/phoneticae/static/js/main.d486d063.chunk.js",
-    "main.js.map": "/phoneticae/static/js/main.d486d063.chunk.js.map",
-    "runtime~main.js": "/phoneticae/static/js/runtime~main.328dbab0.js",
-    "runtime~main.js.map": "/phoneticae/static/js/runtime~main.328dbab0.js.map",
-    "static/js/2.de3790c2.chunk.js": "/phoneticae/static/js/2.de3790c2.chunk.js",
-    "static/js/2.de3790c2.chunk.js.map": "/phoneticae/static/js/2.de3790c2.chunk.js.map",
-    "index.html": "/phoneticae/index.html",
-    "precache-manifest.1c082a33cd5ede556017326576dcd0b8.js": "/phoneticae/precache-manifest.1c082a33cd5ede556017326576dcd0b8.js",
-    "service-worker.js": "/phoneticae/service-worker.js",
-    "static/css/main.fc22b7e6.chunk.css.map": "/phoneticae/static/css/main.fc22b7e6.chunk.css.map"
+    "main.css": "/nasalpedia/static/css/main.fc22b7e6.chunk.css",
+    "main.js": "/nasalpedia/static/js/main.4587659e.chunk.js",
+    "main.js.map": "/nasalpedia/static/js/main.4587659e.chunk.js.map",
+    "runtime~main.js": "/nasalpedia/static/js/runtime~main.0c51de88.js",
+    "runtime~main.js.map": "/nasalpedia/static/js/runtime~main.0c51de88.js.map",
+    "static/js/2.de3790c2.chunk.js": "/nasalpedia/static/js/2.de3790c2.chunk.js",
+    "static/js/2.de3790c2.chunk.js.map": "/nasalpedia/static/js/2.de3790c2.chunk.js.map",
+    "index.html": "/nasalpedia/index.html",
+    "precache-manifest.12efee867431e094dc5a4629e9d02d06.js": "/nasalpedia/precache-manifest.12efee867431e094dc5a4629e9d02d06.js",
+    "service-worker.js": "/nasalpedia/service-worker.js",
+    "static/css/main.fc22b7e6.chunk.css.map": "/nasalpedia/static/css/main.fc22b7e6.chunk.css.map"
   }
 }
