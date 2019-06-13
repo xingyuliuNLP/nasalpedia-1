@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/nasalpedia/precache-manifest.12efee867431e094dc5a4629e9d02d06.js"
+  "/nasalpedia/precache-manifest.108c1911987a89a449aa65a057ff181b.js"
 );
 
 self.addEventListener('message', (event) => {
