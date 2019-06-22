@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "946de60db16ae914e4a43e6634136245",
+    "revision": "fd2d936de9060bd4cb13c02b6fb941cf",
     "url": "/nasalpedia/index.html"
   },
   {
-    "revision": "e28c5517dd2ac703a944",
+    "revision": "8bb5a73a5f8b6669b19b",
     "url": "/nasalpedia/static/css/main.2be1f8e2.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/nasalpedia/static/js/2.ea24fe22.chunk.js"
   },
   {
-    "revision": "e28c5517dd2ac703a944",
-    "url": "/nasalpedia/static/js/main.f426476a.chunk.js"
+    "revision": "8bb5a73a5f8b6669b19b",
+    "url": "/nasalpedia/static/js/main.054640ab.chunk.js"
   },
   {
     "revision": "c6eee220b096728d79e1",
@@ -24,16 +24,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/nasalpedia/static/media/ChineseFrenchFormants5Women.932f9fdb.jpg"
   },
   {
+    "revision": "b85e471cf702c8f87db8be226d37a9ff",
+    "url": "/nasalpedia/static/media/ChineseManDiphArrowAll.b85e471c.jpg"
+  },
+  {
     "revision": "1d9ae92df848f6a810648c81afdabc6e",
     "url": "/nasalpedia/static/media/ChineseManDiphArrowIY.1d9ae92d.jpg"
   },
   {
     "revision": "dd99ab76be28b7dbf8f31381120fb313",
     "url": "/nasalpedia/static/media/ChineseManDiphArrowW.dd99ab76.jpg"
-  },
-  {
-    "revision": "7a8e4b2f0472ef3689771137f707f510",
-    "url": "/nasalpedia/static/media/all.7a8e4b2f.png"
   },
   {
     "revision": "2f07c77d26de39dd8c6092054bd94489",
