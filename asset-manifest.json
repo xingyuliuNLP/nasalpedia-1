@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/nasalpedia/static/css/main.2be1f8e2.chunk.css",
-    "main.js": "/nasalpedia/static/js/main.054640ab.chunk.js",
-    "main.js.map": "/nasalpedia/static/js/main.054640ab.chunk.js.map",
+    "main.js": "/nasalpedia/static/js/main.70146614.chunk.js",
+    "main.js.map": "/nasalpedia/static/js/main.70146614.chunk.js.map",
     "runtime~main.js": "/nasalpedia/static/js/runtime~main.0c51de88.js",
     "runtime~main.js.map": "/nasalpedia/static/js/runtime~main.0c51de88.js.map",
-    "static/js/2.ea24fe22.chunk.js": "/nasalpedia/static/js/2.ea24fe22.chunk.js",
-    "static/js/2.ea24fe22.chunk.js.map": "/nasalpedia/static/js/2.ea24fe22.chunk.js.map",
+    "static/js/2.b12759c0.chunk.js": "/nasalpedia/static/js/2.b12759c0.chunk.js",
+    "static/js/2.b12759c0.chunk.js.map": "/nasalpedia/static/js/2.b12759c0.chunk.js.map",
     "index.html": "/nasalpedia/index.html",
-    "precache-manifest.b7177d5615d059c1ae9375bcb2838fb6.js": "/nasalpedia/precache-manifest.b7177d5615d059c1ae9375bcb2838fb6.js",
+    "precache-manifest.64745a953282dc64ec70210a5e4e46a2.js": "/nasalpedia/precache-manifest.64745a953282dc64ec70210a5e4e46a2.js",
     "service-worker.js": "/nasalpedia/service-worker.js",
     "static/css/main.2be1f8e2.chunk.css.map": "/nasalpedia/static/css/main.2be1f8e2.chunk.css.map",
     "static/media/ChineseFrenchFormants5Women.jpg": "/nasalpedia/static/media/ChineseFrenchFormants5Women.932f9fdb.jpg",
@@ -18,6 +18,12 @@
     "static/media/chineseManDiphArrow0.jpg": "/nasalpedia/static/media/chineseManDiphArrow0.2f07c77d.jpg",
     "static/media/chineseManDiphTriph.png": "/nasalpedia/static/media/chineseManDiphTriph.5b247510.png",
     "static/media/chineseManSimple.png": "/nasalpedia/static/media/chineseManSimple.4beaf3a1.png",
+    "static/media/cnCnfr.jpg": "/nasalpedia/static/media/cnCnfr.bfc61568.jpg",
+    "static/media/cnMicroNasalAbsolute.png": "/nasalpedia/static/media/cnMicroNasalAbsolute.92d4ed34.png",
+    "static/media/cnMicroNasalPercent.png": "/nasalpedia/static/media/cnMicroNasalPercent.00edea61.png",
+    "static/media/cnfrFr.jpg": "/nasalpedia/static/media/cnfrFr.6f9d730d.jpg",
+    "static/media/cnfrMicroNasalAbsolute.png": "/nasalpedia/static/media/cnfrMicroNasalAbsolute.269c46c0.png",
+    "static/media/cnfrMicroNasalPercent.png": "/nasalpedia/static/media/cnfrMicroNasalPercent.9b184cc8.png",
     "static/media/cnfr_lent.jpg": "/nasalpedia/static/media/cnfr_lent.f83f420f.jpg",
     "static/media/cnfr_normal.jpg": "/nasalpedia/static/media/cnfr_normal.8c478ddd.jpg",
     "static/media/dataall_lent_combined_piezo.png": "/nasalpedia/static/media/dataall_lent_combined_piezo.2d60a0d7.png",
@@ -37,6 +43,7 @@
     "static/media/evaPvN2Speed.png": "/nasalpedia/static/media/evaPvN2Speed.a391366a.png",
     "static/media/evaspeed1.png": "/nasalpedia/static/media/evaspeed1.8c828b84.png",
     "static/media/evaspeed2.png": "/nasalpedia/static/media/evaspeed2.f43630f5.png",
-    "static/media/frenchManSimple.png": "/nasalpedia/static/media/frenchManSimple.830bac1e.png"
+    "static/media/frenchManSimple.png": "/nasalpedia/static/media/frenchManSimple.830bac1e.png",
+    "static/media/hehe.png": "/nasalpedia/static/media/hehe.50ec3605.png"
   }
 }

@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fd2d936de9060bd4cb13c02b6fb941cf",
+    "revision": "6f0bb5859ccb90ac84d2b78e42c23f4e",
     "url": "/nasalpedia/index.html"
   },
   {
-    "revision": "8bb5a73a5f8b6669b19b",
+    "revision": "6b3fcd6c93693e227f00",
     "url": "/nasalpedia/static/css/main.2be1f8e2.chunk.css"
   },
   {
-    "revision": "252fa16dd1187485e462",
-    "url": "/nasalpedia/static/js/2.ea24fe22.chunk.js"
+    "revision": "049de01e69e7846ffd96",
+    "url": "/nasalpedia/static/js/2.b12759c0.chunk.js"
   },
   {
-    "revision": "8bb5a73a5f8b6669b19b",
-    "url": "/nasalpedia/static/js/main.054640ab.chunk.js"
+    "revision": "6b3fcd6c93693e227f00",
+    "url": "/nasalpedia/static/js/main.70146614.chunk.js"
   },
   {
     "revision": "c6eee220b096728d79e1",
@@ -46,6 +46,30 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "4beaf3a19518819bc1100b9f846c5364",
     "url": "/nasalpedia/static/media/chineseManSimple.4beaf3a1.png"
+  },
+  {
+    "revision": "bfc6156857a8ae78222e7888d677d52c",
+    "url": "/nasalpedia/static/media/cnCnfr.bfc61568.jpg"
+  },
+  {
+    "revision": "92d4ed344f32e05d20596d0142ac9d86",
+    "url": "/nasalpedia/static/media/cnMicroNasalAbsolute.92d4ed34.png"
+  },
+  {
+    "revision": "00edea615648e6915987019a09baad79",
+    "url": "/nasalpedia/static/media/cnMicroNasalPercent.00edea61.png"
+  },
+  {
+    "revision": "6f9d730d7f9aea4a4c3a92130926cdb7",
+    "url": "/nasalpedia/static/media/cnfrFr.6f9d730d.jpg"
+  },
+  {
+    "revision": "269c46c0c525b3961dd5af399bae4159",
+    "url": "/nasalpedia/static/media/cnfrMicroNasalAbsolute.269c46c0.png"
+  },
+  {
+    "revision": "9b184cc89e6d4b73e4aa7c6f337d9159",
+    "url": "/nasalpedia/static/media/cnfrMicroNasalPercent.9b184cc8.png"
   },
   {
     "revision": "f83f420fbd4d4cdfb7eaaa9b5355f1d7",
@@ -126,5 +150,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "830bac1e8af657f2ecef4d42d84836a6",
     "url": "/nasalpedia/static/media/frenchManSimple.830bac1e.png"
+  },
+  {
+    "revision": "50ec36058aecb95a6e63b439c65336e3",
+    "url": "/nasalpedia/static/media/hehe.50ec3605.png"
   }
 ]);
