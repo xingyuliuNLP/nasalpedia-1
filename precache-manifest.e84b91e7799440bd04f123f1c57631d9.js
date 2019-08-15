@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "dbb2cea7c94ad57b16f3dc2bea279b03",
+    "revision": "292ef73fc47ef29ea924c7cb03c16e6b",
     "url": "/nasalpedia/index.html"
   },
   {
-    "revision": "653caf1446393a9d71e2",
+    "revision": "4f0b9431b8cd3c9cc5e9",
     "url": "/nasalpedia/static/css/main.2be1f8e2.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/nasalpedia/static/js/2.b07461b4.chunk.js"
   },
   {
-    "revision": "653caf1446393a9d71e2",
-    "url": "/nasalpedia/static/js/main.13fd8242.chunk.js"
+    "revision": "4f0b9431b8cd3c9cc5e9",
+    "url": "/nasalpedia/static/js/main.faeed4d1.chunk.js"
   },
   {
     "revision": "c6eee220b096728d79e1",
